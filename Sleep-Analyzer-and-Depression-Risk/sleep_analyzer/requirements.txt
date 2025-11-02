@@ -1,0 +1,7 @@
+tensorflow>=2.18.0
+numpy
+pandas
+h5py
+scipy
+matplotlib
+scikit-learn
